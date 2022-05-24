@@ -8,4 +8,4 @@
       !bday [someone's name]
           - This will display the birthday of the name inputted
       !bday next
-          - This will display the next birthday coming up based on the current date. Ex: Today's date is 01/04 then the next birthday coming up is  Arturo Salazar -                 January 16th
+          - This will display the next birthday coming up based on the current date. Ex: Today's date is 01/04 then the next birthday coming up is Arturo Salazar - January 16th
